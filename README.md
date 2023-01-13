@@ -86,9 +86,9 @@ Authors: Peter Majors, Chris Orlando, Etienne Busnel
 
 **<font size = "5" color = 'maroon'> Conclusion**
 
-<font size = '4'> In order to make this analysis feasible, we had to eliminate many of the factors that make playing the offensive line so difficult to quantify. Some areas of improvement for our model include optimizing the shape of the OLIZ, dynamically sizing the OLIZ based other teammates' zones, and detecting/accounting for double teams. 
+<font size = '4'> In order to make this analysis feasible, we had to eliminate many of the factors that make play on the offensive line so difficult to quantify. Some areas of improvement for our model include optimizing the shape of the OLIZ, dynamically sizing the OLIZ based other teammates' zones, and detecting/accounting for double teams. 
     
-<font size = '4'> By leveraging strictly player tracking data, we were able to produce a more accurate, and perhaps the most accurate, predictor of distance from the quarterback yielded by their pass blockers. Our hope is that we've contributed, at least in some small way, to furthering the understanding of skillsets at these positions.
+<font size = '4'> By leveraging strictly player tracking data, we were able to produce a more accurate, and perhaps the most accurate, predictor of distance from the quarterback yielded by their pass blockers. Our hope is that we've contributed, at least in some small way, to furthering the understanding of desirable skillsets at these positions.
 
 
 
