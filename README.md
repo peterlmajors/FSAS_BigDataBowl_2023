@@ -60,6 +60,8 @@ Authors: Peter Majors, Chris Orlando, Etienne Busnel
 
 <font size = "4"> Given the different needs of in inside and outside linemen, we trained one model for guards and centers, and another one for tackles. We selected Extreme Gradient Boosted (XGBoost) Regression to optimize the weights of our model and output the predicted distance of rushers from the quarterbacks at the final moment they had "posession" of the football.
 
+<font size = "4"> The included features (corresponding to the order of questions above) are as follows: Rusher Distance From QB At Beginning & End Of Being In The OLIZ, Time Spent By The Rusher In The OLIZ, Blocker Time Spent Closer To The QB Than The Rusher, Difference Between Rusher Direction And Blocker Orientation When Rusher Enters OLIZ, Difference In Shoulder Orientation Between Rusher and Blocker At The Beginning And End Of The OLIZ,Speed Of The Rusher When Leaving The OLIZ, and Total Rusher Time Spent In The OLIZ After Leaving It For The First Time.
+
 ![feature_importance](https://user-images.githubusercontent.com/73561125/212230425-882a0527-559a-4d28-ab3c-7be56acc735c.png)
 
 <font size = "4"> As you can see, interior and exterior offensive linemen respond quite differently to the selected features. 
