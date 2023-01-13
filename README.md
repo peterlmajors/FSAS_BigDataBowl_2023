@@ -1,6 +1,4 @@
-# FSAS_Big_Data_Bowl_2023
-
-Evaluating Offensive Linemen Using OLIZ: Offensive Linemen Immediate Zone
+# Evaluating Offensive Linemen Using OLIZ: Offensive Linemen Immediate Zone
 
 The public Kaggle notebook can be found here: https://www.kaggle.com/code/petermajors/evaluating-offensive-linemen-using-oliz
 
