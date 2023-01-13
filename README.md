@@ -1,6 +1,6 @@
 # Evaluating Offensive Linemen Using OLIZ: Offensive Linemen Immediate Zone
 
-Note: If attempting to run the code yourself, you will need data from the NFL's 2023 Big Data Bowl. If you have access to these files, the correct order to run the .ipynb files on your machine is as follows: Data_Preparation, Feature_Creation, Model_Creation. These will take you through all of the steps to this project. Exploratory Analysis was used to brainstorm calculations, learn about the data, and build new features.
+Note: If attempting to run the code yourself, you will need data from the NFL's 2023 Big Data Bowl. If you have access to these files, the correct order to run the .ipynb files on your machine is as follows: Data_Preparation, Feature_Creation, Model_Creation. These will take you through all of the steps to this project. Exploratory_Analysis was used to brainstorm calculations, learn about the data, and build new features.
 
 The public Kaggle notebook can be found here: https://www.kaggle.com/code/petermajors/evaluating-offensive-linemen-using-oliz
 
