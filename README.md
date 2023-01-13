@@ -2,7 +2,7 @@
 
 The public Kaggle notebook can be found here: https://www.kaggle.com/code/petermajors/evaluating-offensive-linemen-using-oliz
 
-Authors: Peter Majors, Chris Orlando, Jack Townsend.
+Authors: Peter Majors, Chris Orlando, Etienne Busnel
 
 **<font size = "5" color = 'maroon'>Introduction**
 
