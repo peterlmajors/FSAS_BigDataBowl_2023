@@ -87,12 +87,7 @@ Authors: Peter Majors, Chris Orlando, Etienne Busnel
 ![dist_qb_other_metrics](https://user-images.githubusercontent.com/73561125/212230624-fcc1ca5a-45a9-4755-8277-e431bc4b5ec0.png)
 
 **<font size = "5" color = 'maroon'> Conclusion**
-
-<font size = '4'> In order to make this analysis feasible, we had to eliminate many of the factors that make play on the offensive line so difficult to quantify. Some areas of improvement for our model include optimizing the shape of the OLIZ, dynamically sizing the OLIZ based other teammates' zones, and detecting/accounting for double teams. 
     
-<font size = '4'> By leveraging strictly player tracking data, we were able to produce a more accurate, and perhaps the most accurate, predictor of distance from the quarterback yielded by their pass blockers. Our hope is that we've contributed, at least in some small way, to furthering the understanding of desirable skillsets at these positions.
-
-
-
-
-
+<font size = '4'> In order to make this analysis feasible, we had to eliminate many of the factors that make play on the offensive line so difficult to quantify, including scrambles and comlex schemes. This is one of the unfortunate realities of working with o-line data - and football data as a whole. Some areas of improvement for our model include optimizing the shape of the OLIZ, dynamically sizing the OLIZ based other teammates' zones, detecting/accounting for double teams, and as mentioned, appropriately accounting for different types for non-traditional play types.
+    
+<font size = '4'> By leveraging strictly player tracking data, we were able to produce a more accurate predictor of distance from the quarterback yielded by their pass blockers. Our hope is that we've contributed, at least in some small way, to furthering the understanding of desirable skillsets at these positions.
